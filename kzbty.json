@@ -3,7 +3,7 @@
     {
       "name": "快直播体育(python)",
       "type": 3,
-      "api": "file://kzbty.py",
+      "api": "https://raw.gitmirror.com/250992941/kzbtv/refs/heads/main/kzbty.json",
       "ext": {}
     }
   ]
